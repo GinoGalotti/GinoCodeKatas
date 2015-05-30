@@ -3,6 +3,11 @@
  * ginogalotti.com
  * ginogalotti@gmail.com
  *
+ * With this Kata I aim training:
+ *      .TDD discipline, forcing myself to write always before the tests.
+ *      .Regex good practices.
+ *      .Refactoring code using IntellIJ shortcuts.
+ *
  * In this package you can find a sample Kata that I use to keep in shape. I've took it from http://osherove.com/tdd-kata-1/, and here is the explanation:
  *
  * STRING CALCULATOR
