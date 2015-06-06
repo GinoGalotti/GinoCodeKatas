@@ -1,4 +1,4 @@
-package com.ginoprojects.ginocodekatas.firstkata;
+package com.ginoprojects.ginocodekatas.stringcalculatorkata.firstround;
 
 /**
  * Created by GinoGalotti on 30/05/2015.
@@ -6,9 +6,6 @@ package com.ginoprojects.ginocodekatas.firstkata;
  * ginogalotti@gmail.com
  */
 public class NegativeNumberException extends Exception {
-
-    public NegativeNumberException() {
-    }
 
     public NegativeNumberException(String message) {
         super(message);

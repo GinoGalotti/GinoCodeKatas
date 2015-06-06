@@ -1,4 +1,4 @@
-package com.ginoprojects.ginocodekatas.firstkata;
+package com.ginoprojects.ginocodekatas.stringcalculatorkata.firstround;
 
 import org.junit.Assert;
 import org.junit.Rule;

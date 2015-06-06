@@ -3,10 +3,19 @@
  * ginogalotti.com
  * ginogalotti@gmail.com
  *
+ * SECOND ROUND:
+ *
  * With this Kata I aim training:
  *      .TDD discipline, forcing myself to write always before the tests.
  *      .Regex good practices.
  *      .Refactoring code using IntellIJ shortcuts.
+ *
+ * Changes from the previous one:
+ *      .Strictly following TDD principles. I can't write more than the neccesary in order to pass the test.
+ *      .Improving regex.
+ *
+ * Time spent:
+ * Improvements since the last one:
  *
  * In this package you can find a sample Kata that I use to keep in shape. I've took it from http://osherove.com/tdd-kata-1/, and here is the explanation:
  *
@@ -31,4 +40,4 @@
  * 8. Allow multiple delimiters like this:  “//[delim1][delim2]\n” for example “//[*][%]\n1*2%3” should return 6.
  * 9. Make sure you can also handle multiple delimiters with length longer than one char
  */
-package com.ginoprojects.ginocodekatas.firstkata;
+package com.ginoprojects.ginocodekatas.stringcalculatorkata.secondround;

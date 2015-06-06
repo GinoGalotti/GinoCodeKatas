@@ -1,8 +1,6 @@
-package com.ginoprojects.ginocodekatas.firstkata;
+package com.ginoprojects.ginocodekatas.stringcalculatorkata.firstround;
 
 import java.util.ArrayList;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Created by GinoGalotti on 29/05/2015.

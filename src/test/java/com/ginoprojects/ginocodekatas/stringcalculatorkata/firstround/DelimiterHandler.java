@@ -1,4 +1,4 @@
-package com.ginoprojects.ginocodekatas.firstkata;
+package com.ginoprojects.ginocodekatas.stringcalculatorkata.firstround;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -69,7 +69,7 @@ public class DelimiterHandler {
         if (everyCustomDelimiter.length() == 0)
             everyCustomDelimiter.append(Pattern.quote(delimiter));
         else
-            everyCustomDelimiter.append(OR_REGEX_CHARACTER + Pattern.quote(delimiter));
+            everyCustomDelimiter.append(OR_REGEX_CHARACTER).append(Pattern.quote(delimiter));
     }
 
     private static String getCustomSingleDelimiter(Matcher match) {
